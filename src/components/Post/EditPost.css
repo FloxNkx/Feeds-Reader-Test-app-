@@ -1,0 +1,30 @@
+.ant-drawer-header {
+    display: flex;
+    justify-content: center;
+}
+
+.ant-drawer-title {
+    font-weight: 700;
+    font-size: 27px;
+    color: red;
+}
+
+.ant-form-item-control-input-content {
+    display: flex;
+    justify-content: center;
+}
+
+.ant-form-item-control-input-content button {
+    background-color: salmon;
+    border: teal;
+    min-width: 250px;
+    margin-top: 40px;
+}
+
+.ant-form-item-control-input-content button:hover {
+    background-color: rgb(185, 91, 81);
+}
+
+.ant-form label {
+    min-width: 70px;
+}

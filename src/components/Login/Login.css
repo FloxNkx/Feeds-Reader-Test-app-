@@ -1,0 +1,46 @@
+.login-form {
+    margin-top: 20px;
+}
+
+.login-title {
+    font-size: 30px;
+    color: red;
+    font-weight: 800;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.login-form label {
+    min-width: 110px !important;
+    font-weight: 500;
+    color: grey;
+}
+
+.login-form .ant-row {
+    margin-bottom: 30px;
+}
+
+.button-submit .ant-form-item-control-input-content {
+    display: flex;
+    justify-content: center;
+}
+
+.button-submit .ant-form-item-control-input-content button {
+    min-width: 180px;
+    background: linear-gradient(salmon, purple);
+    color: white;
+    font-weight: 700;
+    margin-top: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.login-layout {
+    padding: 0 150px;
+    height: 100vh;
+}
+
+.login-main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

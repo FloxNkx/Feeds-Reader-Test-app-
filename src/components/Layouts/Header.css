@@ -1,0 +1,10 @@
+.page-header {
+    padding: 15px 0px;
+    border-bottom: 2px dashed salmon;
+}
+
+.page-header .ant-page-header-heading-title a{
+    color: grey;
+    font-size: 30px;
+    font-weight: bold;
+}
